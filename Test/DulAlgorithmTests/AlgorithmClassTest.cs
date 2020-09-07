@@ -9,7 +9,7 @@ namespace DulAlgorithmTests
         [TestMethod]
         public void MyTestMethod()
         {
-            Assert.AreEqual(10, 10);
+            Assert.AreEqual(10, 100);
         }
 
         [TestMethod]
