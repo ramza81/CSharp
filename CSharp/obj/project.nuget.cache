@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "RMG2gINPDPim3wI+hyFbjKiMQcACE9/UI3oNqBNqMY5dR8u8/57LyQf8GpCiB25LDcdM5ArYJUQY0Q0RJAhUJw==",
+  "dgSpecHash": "qu/TcwstfBSWVrRYGEvC6gLFre0O5SeJ55Yj+alWJEskOOa+iC2TG4iYRrT6VbbJnzglBzifaVbML+wj74bB+g==",
   "success": true,
-  "projectFilePath": "D:\\Etc\\Study\\CSharp\\CSharp\\DotNet.csproj",
+  "projectFilePath": "D:\\Study\\CSharp\\CSharp\\CSharp\\DotNet.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\user\\.nuget\\packages\\bandieraalgorithm\\1.0.0\\bandieraalgorithm.1.0.0.nupkg.sha512"
+    "C:\\Users\\BANDIERA\\.nuget\\packages\\bandieraalgorithm\\1.0.0\\bandieraalgorithm.1.0.0.nupkg.sha512"
   ],
   "logs": []
 }

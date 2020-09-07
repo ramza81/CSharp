@@ -1,0 +1,4 @@
+D:\Study\CSharp\CSharp\TodoApp\TodoApp.Models\obj\Debug\netstandard2.0\TodoApp.Models.csprojAssemblyReference.cache
+D:\Study\CSharp\CSharp\TodoApp\TodoApp.Models\obj\Debug\netstandard2.0\TodoApp.Models.AssemblyInfoInputs.cache
+D:\Study\CSharp\CSharp\TodoApp\TodoApp.Models\obj\Debug\netstandard2.0\TodoApp.Models.AssemblyInfo.cs
+D:\Study\CSharp\CSharp\TodoApp\TodoApp.Models\obj\Debug\netstandard2.0\TodoApp.Models.csproj.CoreCompileInputs.cache

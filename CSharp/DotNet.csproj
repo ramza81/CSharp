@@ -7,7 +7,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <StartupObject>DotNet.Ch56_AsyncAwait.AsyncAwaitDemo</StartupObject>
+    <StartupObject>DotNet.Ch57_InMemoryDb.InMemoryDbDemo</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
