@@ -6,7 +6,7 @@ namespace DotNet.Ch53_Test
     {
         static void Main(string[] args)
         {
-            int[] numbers = {8, 5, 6, 3, 1, 4, 2, 7, 9, 10 };           
+            int[] numbers = {8, 5, 6, 3, 1, 4, 2, 7, 9, 11 };           
 
             numbers = DulAlgorithm.Algorithm.SelectionSort(numbers);
 
