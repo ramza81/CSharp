@@ -51,5 +51,4 @@ D:\Etc\Study\CSharp\CSharp\obj\Debug\netcoreapp3.1\DotNet.dll
 D:\Etc\Study\CSharp\CSharp\obj\Debug\netcoreapp3.1\DotNet.pdb
 D:\Etc\Study\CSharp\CSharp\obj\Debug\netcoreapp3.1\DotNet.genruntimeconfig.cache
 D:\Etc\Study\CSharp\CSharp\bin\Debug\netcoreapp3.1\DulAlgorithm.dll
-D:\Etc\Study\CSharp\CSharp\bin\Debug\netcoreapp3.1\DulAlgorithm.pdb
 D:\Etc\Study\CSharp\CSharp\obj\Debug\netcoreapp3.1\DotNet.csproj.CopyComplete

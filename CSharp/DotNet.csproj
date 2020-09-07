@@ -7,7 +7,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <StartupObject>DotNet.Ch53_Test.TestDemo</StartupObject>
+    <StartupObject>DotNet.Ch56_AsyncAwait.AsyncAwaitDemo</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>

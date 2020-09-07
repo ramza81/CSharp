@@ -8,15 +8,18 @@
     ".NETCoreApp,Version=v3.1": {
       "DotNet/1.0.0": {
         "dependencies": {
-          "DulAlgorithm": "1.0.0"
+          "BandieraAlgorithm": "1.0.0"
         },
         "runtime": {
           "DotNet.dll": {}
         }
       },
-      "DulAlgorithm/1.0.0": {
+      "BandieraAlgorithm/1.0.0": {
         "runtime": {
-          "DulAlgorithm.dll": {}
+          "lib/netstandard2.0/DulAlgorithm.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
@@ -27,10 +30,12 @@
       "serviceable": false,
       "sha512": ""
     },
-    "DulAlgorithm/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
+    "BandieraAlgorithm/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-r4uRkceGjkljkED2J+Qtu8Llu5PqO75HSMIO+bKRjo01GCy3aI0B6SeJjXmIpw2vDafeMI0CtP6xlOcl7VNpyQ==",
+      "path": "bandieraalgorithm/1.0.0",
+      "hashPath": "bandieraalgorithm.1.0.0.nupkg.sha512"
     }
   }
 }
