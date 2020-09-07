@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TodoApp.ConsoleApp/1.0.0": {
+        "dependencies": {
+          "TodoApp.Models": "1.0.0"
+        },
+        "runtime": {
+          "TodoApp.ConsoleApp.dll": {}
+        }
+      },
+      "TodoApp.Models/1.0.0": {
+        "runtime": {
+          "TodoApp.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TodoApp.ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TodoApp.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+D:\Study\CSharp\CSharp\TodoApp\ui\TodoApp.ConsoleApp\obj\Debug\netcoreapp3.1\TodoApp.ConsoleApp.csprojAssemblyReference.cache
+D:\Study\CSharp\CSharp\TodoApp\ui\TodoApp.ConsoleApp\obj\Debug\netcoreapp3.1\TodoApp.ConsoleApp.AssemblyInfoInputs.cache
+D:\Study\CSharp\CSharp\TodoApp\ui\TodoApp.ConsoleApp\obj\Debug\netcoreapp3.1\TodoApp.ConsoleApp.AssemblyInfo.cs
+D:\Study\CSharp\CSharp\TodoApp\ui\TodoApp.ConsoleApp\obj\Debug\netcoreapp3.1\TodoApp.ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Study\CSharp\CSharp\TodoApp\ui\TodoApp.ConsoleApp\bin\Debug\netcoreapp3.1\TodoApp.ConsoleApp.exe
+D:\Study\CSharp\CSharp\TodoApp\ui\TodoApp.ConsoleApp\bin\Debug\netcoreapp3.1\TodoApp.ConsoleApp.deps.json
+D:\Study\CSharp\CSharp\TodoApp\ui\TodoApp.ConsoleApp\bin\Debug\netcoreapp3.1\TodoApp.ConsoleApp.runtimeconfig.json
+D:\Study\CSharp\CSharp\TodoApp\ui\TodoApp.ConsoleApp\bin\Debug\netcoreapp3.1\TodoApp.ConsoleApp.runtimeconfig.dev.json
+D:\Study\CSharp\CSharp\TodoApp\ui\TodoApp.ConsoleApp\bin\Debug\netcoreapp3.1\TodoApp.ConsoleApp.dll
+D:\Study\CSharp\CSharp\TodoApp\ui\TodoApp.ConsoleApp\bin\Debug\netcoreapp3.1\TodoApp.ConsoleApp.pdb
+D:\Study\CSharp\CSharp\TodoApp\ui\TodoApp.ConsoleApp\bin\Debug\netcoreapp3.1\TodoApp.Models.dll
+D:\Study\CSharp\CSharp\TodoApp\ui\TodoApp.ConsoleApp\bin\Debug\netcoreapp3.1\TodoApp.Models.pdb
+D:\Study\CSharp\CSharp\TodoApp\ui\TodoApp.ConsoleApp\obj\Debug\netcoreapp3.1\TodoApp.ConsoleApp.csproj.CopyComplete
+D:\Study\CSharp\CSharp\TodoApp\ui\TodoApp.ConsoleApp\obj\Debug\netcoreapp3.1\TodoApp.ConsoleApp.dll
+D:\Study\CSharp\CSharp\TodoApp\ui\TodoApp.ConsoleApp\obj\Debug\netcoreapp3.1\TodoApp.ConsoleApp.pdb
+D:\Study\CSharp\CSharp\TodoApp\ui\TodoApp.ConsoleApp\obj\Debug\netcoreapp3.1\TodoApp.ConsoleApp.genruntimeconfig.cache

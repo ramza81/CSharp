@@ -2,10 +2,12 @@ using System.Collections.Generic;
 
 namespace TodoApp.Models
 {
-    public interface ITodoRepositoryInMemory
+    public interface ITodoRepository
     {
         void Add(Todo model);
         List<Todo> GetAll();
+
+        Todo GetById(int Id);
     }
 
     // public class TodoRepositorySqlServer : ITodoRepository

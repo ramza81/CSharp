@@ -2,3 +2,8 @@ D:\Study\CSharp\CSharp\TodoApp\TodoApp.Models\obj\Debug\netstandard2.0\TodoApp.M
 D:\Study\CSharp\CSharp\TodoApp\TodoApp.Models\obj\Debug\netstandard2.0\TodoApp.Models.AssemblyInfoInputs.cache
 D:\Study\CSharp\CSharp\TodoApp\TodoApp.Models\obj\Debug\netstandard2.0\TodoApp.Models.AssemblyInfo.cs
 D:\Study\CSharp\CSharp\TodoApp\TodoApp.Models\obj\Debug\netstandard2.0\TodoApp.Models.csproj.CoreCompileInputs.cache
+D:\Study\CSharp\CSharp\TodoApp\TodoApp.Models\bin\Debug\netstandard2.0\TodoApp.Models.deps.json
+D:\Study\CSharp\CSharp\TodoApp\TodoApp.Models\bin\Debug\netstandard2.0\TodoApp.Models.dll
+D:\Study\CSharp\CSharp\TodoApp\TodoApp.Models\bin\Debug\netstandard2.0\TodoApp.Models.pdb
+D:\Study\CSharp\CSharp\TodoApp\TodoApp.Models\obj\Debug\netstandard2.0\TodoApp.Models.dll
+D:\Study\CSharp\CSharp\TodoApp\TodoApp.Models\obj\Debug\netstandard2.0\TodoApp.Models.pdb

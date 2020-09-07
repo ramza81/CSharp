@@ -9,7 +9,7 @@ namespace TodoApp.Models
     {
         public int Id { get; set; }
         public string Title { get; set; }
-        public bool IsDoen { get; set; }
+        public bool IsDone { get; set; }
     }
 
 }
