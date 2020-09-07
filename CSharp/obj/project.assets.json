@@ -2,28 +2,34 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "DulAlgorithm/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
+      "BandieraAlgorithm/1.0.0": {
+        "type": "package",
         "compile": {
-          "bin/placeholder/DulAlgorithm.dll": {}
+          "lib/netstandard2.0/DulAlgorithm.dll": {}
         },
         "runtime": {
-          "bin/placeholder/DulAlgorithm.dll": {}
+          "lib/netstandard2.0/DulAlgorithm.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "DulAlgorithm/1.0.0": {
-      "type": "project",
-      "path": "../DulAlgorithm/DulAlgorithm.csproj",
-      "msbuildProject": "../DulAlgorithm/DulAlgorithm.csproj"
+    "BandieraAlgorithm/1.0.0": {
+      "sha512": "r4uRkceGjkljkED2J+Qtu8Llu5PqO75HSMIO+bKRjo01GCy3aI0B6SeJjXmIpw2vDafeMI0CtP6xlOcl7VNpyQ==",
+      "type": "package",
+      "path": "bandieraalgorithm/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "bandieraalgorithm.1.0.0.nupkg.sha512",
+        "bandieraalgorithm.nuspec",
+        "lib/netstandard2.0/DulAlgorithm.dll"
+      ]
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "DulAlgorithm >= 1.0.0"
+      "BandieraAlgorithm >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -56,11 +62,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {
-            "D:\\Etc\\Study\\CSharp\\DulAlgorithm\\DulAlgorithm.csproj": {
-              "projectPath": "D:\\Etc\\Study\\CSharp\\DulAlgorithm\\DulAlgorithm.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -71,6 +73,12 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "dependencies": {
+          "BandieraAlgorithm": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",
