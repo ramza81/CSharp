@@ -1,0 +1,9 @@
+D:\Etc\Study\CSharp\DulAlgorithm\bin\Debug\netstandard2.0\DulAlgorithm.deps.json
+D:\Etc\Study\CSharp\DulAlgorithm\bin\Debug\netstandard2.0\DulAlgorithm.dll
+D:\Etc\Study\CSharp\DulAlgorithm\bin\Debug\netstandard2.0\DulAlgorithm.pdb
+D:\Etc\Study\CSharp\DulAlgorithm\obj\Debug\netstandard2.0\DulAlgorithm.csprojAssemblyReference.cache
+D:\Etc\Study\CSharp\DulAlgorithm\obj\Debug\netstandard2.0\DulAlgorithm.AssemblyInfoInputs.cache
+D:\Etc\Study\CSharp\DulAlgorithm\obj\Debug\netstandard2.0\DulAlgorithm.AssemblyInfo.cs
+D:\Etc\Study\CSharp\DulAlgorithm\obj\Debug\netstandard2.0\DulAlgorithm.csproj.CoreCompileInputs.cache
+D:\Etc\Study\CSharp\DulAlgorithm\obj\Debug\netstandard2.0\DulAlgorithm.dll
+D:\Etc\Study\CSharp\DulAlgorithm\obj\Debug\netstandard2.0\DulAlgorithm.pdb

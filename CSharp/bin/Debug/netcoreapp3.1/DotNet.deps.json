@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DotNet/1.0.0": {
+        "dependencies": {
+          "DulAlgorithm": "1.0.0"
+        },
+        "runtime": {
+          "DotNet.dll": {}
+        }
+      },
+      "DulAlgorithm/1.0.0": {
+        "runtime": {
+          "DulAlgorithm.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DotNet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DulAlgorithm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
