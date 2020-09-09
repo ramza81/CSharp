@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\BANDIERA\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\BANDIERA\\.nuget\\packages"
+    ]
+  }
+}

@@ -2,13 +2,13 @@
 using TodoApp.Models;
 using System.Collections.Generic;
 
-namespace TodoApp.ConsoleApp
+namespace TodoApp.ConsoleAppFile
 {
     class Program
     {
         static void Main(string[] args)
         {
-            ITodoRepository _repository = new TodoRepositoryInMemory();
+            ITodoRepository _repository = new TodoRepositoryFile(@"D:\Study\CSharp\Todo.txt");
 
             List<Todo> todos = new List<Todo>();
             todos = _repository.GetAll();
@@ -18,6 +18,7 @@ namespace TodoApp.ConsoleApp
             {
                 System.Console.WriteLine($"GetAll: {t.Id} - {t.Title} ({t.IsDone})");
             }
+            System.Console.WriteLine();
 
              // 데이터 입력
             Todo todo = new Todo { Title = "Database 학습", IsDone = true };
@@ -31,11 +32,11 @@ namespace TodoApp.ConsoleApp
             {
                 System.Console.WriteLine($"GetAll: {t.Id} - {t.Title}({t.IsDone})");
             }
+            System.Console.WriteLine();
 
             // 특정 데이터 출력
             todo = _repository.GetById(3);
             System.Console.WriteLine($"GetById: {todo.Id} - {todo.Title}({todo.IsDone})");
-
         }
     }
 }

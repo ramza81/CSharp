@@ -8,6 +8,7 @@ namespace TodoApp.Models
 {
     public class TodoRepositoryFile : ITodoRepository
     {
+        private readonly string _filePath;
         private static List<Todo> _todos = new List<Todo>();
 
         public TodoRepositoryFile()
@@ -20,12 +21,15 @@ namespace TodoApp.Models
             };
         }
 
-        public TodoRepositoryFile(string filePath = @"D:\Study\SSharp\Todo.txt")
+        public TodoRepositoryFile(string filePath = @"D:\Study\CSharp\Todo.txt")
         {
+            this._filePath = filePath;
             string[] todos = File.ReadAllLines(filePath, Encoding.Default);
             foreach (var t in todos)
             {
-                _todos.Add(new Todo { Id = t.ToString().Split()  .Split(',').GetValue(0) });
+                string[] line = t.Split(',');
+
+                _todos.Add(new Todo { Id = Convert.ToInt32(line[0]),  Title = line[1], IsDone = Convert.ToBoolean(line[2]) });
             }
         }
 
@@ -40,6 +44,12 @@ namespace TodoApp.Models
             foreach (var t in _todos)
             {
                 data += $"{t.Id},{t.Title},{t.IsDone}{Environment.NewLine}";   
+            }
+            using (StreamWriter sw = new StreamWriter(_filePath))
+            {
+                sw.Write(data);
+                sw.Close();
+                // sw.Dispose();
             }
         }
 
