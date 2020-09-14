@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "09Af4o0XkGIiW7jw+P5w1EBCW528BAc5Yh2eLFw693zEkalW8Ob2yJMzvevmq7ICTz1hJ7gJEWIJLPKYZIXDkw==",
+  "dgSpecHash": "tgl3kJTDUNboqGkOhhZtfYpK7RBIjvB+81hmUi3GbFjgXYSQL1Wi4BwfOGInCOB4ISBCgZmDEV7SGfbl9T/X9Q==",
   "success": true,
   "projectFilePath": "D:\\Study\\CSharp\\CSharp\\TodoApp\\TodoApp.Models\\TodoApp.Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BANDIERA\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\BANDIERA\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\BANDIERA\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\BANDIERA\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
   ],
   "logs": []
 }
