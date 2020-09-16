@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "P9Wol6RLPQ78tTb3L9ly1r2CpiSn3U+Lxm/x3C+MR6/FulCreC2c6jBgxZ0+cvXxoGwIyk7ihz5JuXSG/mJQXQ==",
+  "success": true,
+  "projectFilePath": "D:\\Study\\CSharp\\CSharp\\TodoApp\\API\\TodoApp.Apis.Tests.ConsoleApp\\TodoApp.Apis.Tests.ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BANDIERA\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
